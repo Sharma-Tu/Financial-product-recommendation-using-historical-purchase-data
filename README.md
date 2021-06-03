@@ -1,2 +1,6 @@
 # IE7275-Data-Mining-Project
-Peoject on product recommendation
+Final Project on product recommendation
+
+Please view the pdf file for all the details.
+
+
